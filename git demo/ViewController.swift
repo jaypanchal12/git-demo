@@ -32,7 +32,9 @@ class ViewController: UIViewController {
     func master()  {
         print("this is by master")
     }
-    
+    func newMethodAddedToMaster()  {
+        print("this is by master")
+    }
 
 }
 
