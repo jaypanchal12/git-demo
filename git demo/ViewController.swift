@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     func method1()  {
         print("")
     }
+    
+    func jay()  {
+        print("this is changed by jay")
+    }
 
 
 }
