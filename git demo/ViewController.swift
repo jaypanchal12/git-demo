@@ -25,6 +25,11 @@ class ViewController: UIViewController {
         print("this changed by jay")
     }
     
+   func addmethodtomaster()
+    {
+       print ("method added")
+    }
+    
 
 }
 
