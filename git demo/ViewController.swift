@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
     
 
-    func jay()  {
+    func jay1()  {
         print("this changed by jay")
     }
     
