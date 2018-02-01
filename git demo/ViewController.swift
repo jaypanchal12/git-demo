@@ -24,8 +24,9 @@ class ViewController: UIViewController {
         print("")
     }
     
-    func jay()  {
-        print("this is changed by jay")
+  
+    func master()  {
+        print("this is by master")
     }
 
 
