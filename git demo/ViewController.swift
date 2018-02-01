@@ -26,6 +26,11 @@ class ViewController: UIViewController {
         print("this changed by reshmy")
     }
     
+    func newReshmy()
+    {
+        print("added new fuction")
+    }
+    
 
 }
 
