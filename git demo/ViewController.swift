@@ -20,9 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    func method1()  {
-        print("")
-    }
+   
 
     func reshmy()  {
         print("this changed by reshmy")
