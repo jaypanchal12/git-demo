@@ -29,6 +29,10 @@ class ViewController: UIViewController {
         print("this is by master")
     }
 
+    func reshmy()  {
+        print("this changed by reshmy")
+    }
+    
 
 }
 
