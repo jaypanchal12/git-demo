@@ -23,6 +23,8 @@ class ViewController: UIViewController {
     func method1()  {
         print("")
     }
+    
+  
     func master()  {
         print("this is by master")
     }
